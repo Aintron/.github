@@ -1,4 +1,14 @@
 # Aintron
+
+We provide Web Application Development, Mobile Application Development, APIs Development, and SEO Services. We're a small team motivated to make an impact on the way people live. We've digitized several businesses to make them focus on their goal.
+
+Aintron have been working closely with clients who are looking to make their dreams come true. We are suitable to contribute their business point of view. We're reachable anytime on WhatsApp, email, mobile, and any other system you prefer to make your life easier.
+We build the products that keeps you on the edge of technology. We care about your goals, we see your success as our success.
+
+We are Passionate and trustworthy.
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
