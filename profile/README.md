@@ -12,8 +12,9 @@ We build the products that keeps you on the edge of technology. We care about yo
 #### We are Passionate and trustworthy.
 
  <div align="center">
+  
+  <video width="430" src="https://user-images.githubusercontent.com/92919697/219597856-e0e03c99-e095-4f14-a9bb-696c46e5cfd0.MOV" />
 
-https://user-images.githubusercontent.com/92919697/219597856-e0e03c99-e095-4f14-a9bb-696c46e5cfd0.MOV
   
   </div>
 
