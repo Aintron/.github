@@ -16,13 +16,13 @@ We build the products that keeps you on the edge of technology. We care about yo
   <video width="430" src="https://user-images.githubusercontent.com/92919697/219597856-e0e03c99-e095-4f14-a9bb-696c46e5cfd0.MOV" />
 
   
-  </div>
+  </div> -->
 
 
  <div align="start">
  
  ### Our Upcoming Product...!
-- Currently, We are working on an extension for Google Chrome called "Pixel Picker". This extension has several advantages, including the ability to pick any color from anywhere, inside the browser and outside also, meaning anywhere on your computer.
+- Currently, We are working on an inventory management syatem called "Inventolizer". Businesses can use this application to track and manage inventory levels and related activities. This system can provide real-time visibility into inventory levels, stock locations, and stock movement, allowing businesses to make informed decisions about stock replenishment, inventory optimization, customer service and also have some unique functionalities.
 
 </div>
 
@@ -30,9 +30,9 @@ We build the products that keeps you on the edge of technology. We care about yo
 
 <div align="center" >
 
-### *💻 TECHNOLOGIES THAT WE MOSTLY USE* ⇘
+## *💻 TECHNOLOGIES THAT WE MOSTLY USE* ⇘
   
-  </div> -->
+  </div>
 
 </br>
 
